@@ -1,4 +1,4 @@
-Megaline - Plan Recommendation Project
+# Megaline - Plan Recommendation Project
 
 About the Project
 
