@@ -1,0 +1,7 @@
+# Megaline - Projeto de Recomendação de Planos de Telefonia
+
+No mundo altamente competitivo das telecomunicações, entender e atender às necessidades dos clientes é crucial para o sucesso de uma empresa. A Megaline, uma operadora de celular estabelecida, está buscando manter sua posição competitiva e atender melhor às demandas em constante mudança de seus clientes. Para alcançar esse objetivo, a empresa decidiu empregar técnicas avançadas de Machine Learning e Inteligência Artificial para desenvolver um modelo capaz de recomendar novos planos de telefonia aos seus clientes.
+
+Neste projeto, iremos explorar uma variedade de algoritmos de Machine Learning e técnicas de modelagem para criar um sistema inteligente que analise o comportamento dos clientes e sugira o plano mais adequado para cada um deles. Utilizando dados históricos de comportamento dos clientes, nosso objetivo é desenvolver um modelo robusto e eficaz que possa prever com precisão as preferências dos clientes e recomendar planos que atendam melhor às suas necessidades individuais.
+
+Ao aproveitar o poder do Machine Learning e da Inteligência Artificial, esperamos capacitar a Megaline a tomar decisões estratégicas mais informadas, melhorar a satisfação do cliente e impulsionar o crescimento do negócio.
