@@ -3,6 +3,7 @@
 About the Project
 
 Welcome to the Megaline Plan Recommendation Project! This repository is dedicated to the development of an advanced recommendation system for Megaline, a leading telecommunications company. Our goal is to leverage the power of Machine Learning and Artificial Intelligence to offer personalized plan suggestions to our customers, enhancing their overall experience and satisfaction.
+
 Project Overview
 
 In today's competitive telecommunications landscape, providing personalized services is key to retaining customers and attracting new ones. Our project aims to create a state-of-the-art recommendation system that intelligently suggests the most suitable phone plans based on individual usage patterns and preferences. By analyzing historical data and user behavior, we can predict the optimal plan for each customer, ensuring they receive the best value and service.
